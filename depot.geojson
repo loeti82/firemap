@@ -34,7 +34,9 @@
         },
         {
             "type": "Feature",
-            "properties": {},
+            "properties": {
+                "Notfall": 118
+            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -48,9 +50,13 @@
         "displayOnLoad": true,
         "browsable": true,
         "remoteData": {
-            "url": "https://raw.githubusercontent.com/loeti82/geojson-demo/main/depot.geojson",
+            "url": "https://raw.githubusercontent.com/loeti82/firemap/master/depot.geojson",
             "format": "geojson"
         },
-        "name": "depot"
-    }    
+        "name": "Depot Feuerwehr",
+        "description": "Depot der Feuerwehr Pfäffikon ZH",
+        "iconUrl": "https://raw.githubusercontent.com/loeti82/firemap/master/symbols/fire-truck.png",
+        "iconClass": "Drop",
+        "color": "Red"
+    }
 }
