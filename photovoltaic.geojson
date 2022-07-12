@@ -1,0 +1,125 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Adresse": "Bodenackerstrasse 52",
+                "Bezeichnung":"",
+                "Zustand": "Angemeldet"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            8.7902165,
+                            47.3769263
+                        ],
+                        [
+                            8.7902975,
+                            47.3768374
+                        ],
+                        [
+                            8.7904389,
+                            47.3768965
+                        ],
+                        [
+                            8.7903579,
+                            47.3769854
+                        ],
+                        [
+                            8.7902165,
+                            47.3769263
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Adresse": "Näppenrainstrasse 15",
+                "Bezeichnung":"",
+                "Zustand": "Angemeldet"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            8.787874281406403,
+                            47.37556056440908
+                          ],
+                          [
+                            8.787813931703568,
+                            47.37560597351016
+                          ],
+                          [
+                            8.787697255611418,
+                            47.37553785984387
+                          ],
+                          [
+                            8.787757605314255,
+                            47.375492450684106
+                          ],
+                          [
+                            8.787874281406403,
+                            47.37556056440908
+                          ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Adresse": "Wallikerstrasse 79",
+                "Bezeichnung":"",
+                "Zustand": "In Betrieb"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            8.7929439,
+                            47.3739552
+                        ],
+                        [
+                            8.7930782,
+                            47.3739117
+                        ],
+                        [
+                            8.7931439,
+                            47.3740046
+                        ],
+                        [
+                            8.7930096,
+                            47.3740481
+                        ],
+                        [
+                            8.7929439,
+                            47.3739552
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Adresse": "Weidstrasse 33",
+                "Bezeichnung":"Lindenbaum",
+                "Zustand": "In Betrieb"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.789250254631044,
+                    47.37001127789995
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Adresse": "Schanzstrasse 2",
+                "Bezeichnung":"Möbel Waeber",
+                "Zustand": "In Betrieb"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.7694824 ,
+                    47.3644132	
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Adresse": "Weierholzstrasse 2",
+                "Bezeichnung":"Pfadiheim",
+                "Zustand": "NICHT VORHANDEN!"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.7924237 ,
+                    47.3710155	
+                ]
+            }
+        }
+    ]
+}
