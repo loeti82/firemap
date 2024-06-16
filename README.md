@@ -1,6 +1,6 @@
 # firemap
 
-Map für die Einsätze der Feuerwehr Pfäffikon ZH.
+Map für die Feuerwehr Pfäffikon ZH.
 
 ## Lizenzen
 
@@ -8,6 +8,6 @@ Map für die Einsätze der Feuerwehr Pfäffikon ZH.
 
 - umap: https://github.com/umap-project/umap/blob/master/LICENSE
 
-- Polygone (Gebäude Umrrisse): https://nominatim.org/
+- Polygone (Gebäude Umrrise): https://nominatim.org/
 
 - Icons: https://materialdesignicons.com/
