@@ -1,4 +1,4 @@
-plz,ort,strasse,nummer,baujahr,EGID,lat,lon,bemerkung
+plz,ort,strasse,nummer,baujahr,EGID,lon,lat,bemerkung
 8330,Pfäffikon,Steinwiesstrasse,32.1,1981,210185548,8.783299,47.371969,
 8330,Pfäffikon,Pfaffbergstrasse, 6.1, 1967,210183835, 8.79515266418457,47.366241455078125,
 8330,Pfäffikon,Rainstrasse, 2.1, 1970,210184802,8.7966890335083,47.3658561706543,
@@ -17,7 +17,7 @@ plz,ort,strasse,nummer,baujahr,EGID,lat,lon,bemerkung
 8331,Auslikon,Strandbadstrasse,16.1,1984,210184634,8.805288,47.343672,
 8330,Pfäffikon,Steinwiesstrasse,2.1, 1984,,8.784774,47.371372,
 8330,Pfäffikon,Mettlenstrasse,14.1, 1989,210184029,8.792997,47.362225,
-8330,Pfäffikon,Hittnauerstrasse,27.1, 1993,,8.792183,47.364847,ort unklar
+8330,Pfäffikon,Hittnauerstrasse,27.1, 1993,,8.792183,47.364847,ort unsicher
 8330,Pfäffikon,Russikerstrasse, 11.2, 1994,210184560,8.782656,47.36978,
 8330,Pfäffikon,Sophie-Guyer-Strasse, 5, 1981,210184399,	8.78799,47.365694,wird 2024 abgebaut
 8330,Pfäffikon,Obermattstrasse, 30.2, 1994,210184401,8.779503,47.367813,
