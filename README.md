@@ -21,7 +21,6 @@ Objekte für welche die Feuerwehr Einsatzpläne vorhält.
 
 ## Gefahrenmeldeanlagen (GMA)
 Objekte welche über eine Gefahren- oder Brandmeldeanlage verfügen.
-Dabei unterscheiden si
 
 ## Schlüsselrohr
 Objekte welche für den Zutritt der Feuerwehr ein Schlüsselrohr haben, damit die Feuerwehr schneller und ohne weiteren Schaden sich Zutritt zum Objekt verschaffen kann.
