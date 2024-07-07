@@ -16,10 +16,10 @@ Zudem führen wir in den Daten die Longitude/Längengrad (lon) und die Latitude/
 # Darstellungen
 Dieser Abschnitt erklärt welche Daten dargestellt werden.
 
-## Einsatzlpläne
+## Einsatzpläne
 Objekte für welche die Feuerwehr Einsatzpläne vorhält.
 
-## Gefahrenmeldeanalgen (GMA)
+## Gefahrenmeldeanlagen (GMA)
 Objekte welche über eine Gefahren- oder Brandmeldeanlage verfügen.
 Dabei unterscheiden si
 
