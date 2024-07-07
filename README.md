@@ -3,6 +3,16 @@
 Dieses Repository beinhaltet wichtige Einsatzinformationen für die Feuerwehr PFäffikon ZH. 
 Die Karte orientiert sich an der ähnlichen Karte der Feuerwehr Gossau ZH.
 
+# Datenstruktur
+Die Datenstruktur erläutert, wie die Daten aufgebaut sein müssen, damit sie entsprechend dargestellt werden können.
+
+Da die Alarmmeldungen in den meisten Fällen eine Adresse beinhaltet, wird diese mitaufgefhürt. Diese erlaubt es zu dem die Verantwortlichen zu evaluieren. 
+Die Adresse ist mit Postleitzahl, Ort, Strasse und Hausnummer aufgeführt. 
+
+In einzelnen Fällen führen wir die Eidgenössische Gebäude ID auf, damit wir die Refernznummer für weitere Register haben.
+
+Zudem führen wir in den Daten die Longitude/Längengrad (lon) und die Latitude/Breitengrad (lat) auf, damit das Objekt auf der Karte verortet werden kann.
+
 # Darstellungen
 Dieser Abschnitt erklärt welche Daten dargestellt werden.
 
