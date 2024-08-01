@@ -1,68 +1,68 @@
-﻿plz;Strasse;nummer;bemerkung;zweck;lon;lat
-8330;Alpenweg;18;Schule;intern;8.776979;47.367946
-8330;Bachtelstrasse;2;Haus Bachtel;gma;8.785605;47.367924
-8330;Bahnhofstrasse;16;;gma;8.78387;47.367161
-8330;Bahnhofstrasse;17;;intern;8.785184;47.366376
-8330;Barzloostrasse;1;;gma;8.770203;47.368576
-8330;Baumenstrasse;2;Tiefgarage;intern;8.78917;47.361879
-8330;Baumgartenstrasse;4.1;Tiefgarage;intern;8.795421;47.361473
-8330;Dorfstrasse;6;Kindergarten;intern;8.793011;47.361364
-8330;Hittnauerstrasse;1a;Tiefgarage;intern;8.787122;47.365266
-8330;Hittnauerstrasse;20;Schule;intern;8.790823;47.364178
-8330;Hittnauerstrasse;28;Tiefgarage;intern;8.791885;47.36407
-8330;Hittnauerstrasse;34;;gma;8.793088;47.364399
-8330;Hochstrasse;1;;intern;8.782556;47.367209
-8330;Hochstrasse;32;;gma;8.784435;47.36596
-8330;Hochstrasse;31;;gma;8.785671;47.365826
-8330;Hochstrasse ;65;;gma;8.788062;47.364245
-8330;Hörnlistrasse;77;;intern;8.791123;47.367607
-8330;Hörnlistrasse;76;;gma;8.790462;47.367217
-8330;Hörnlistrasse;80;;gma;8.791284;47.366519
-8330;Hörnlistrasse;71;;gma;8.789771;47.36848
-8330;Hörnlistrasse;55;;gma;8.788668;47.36872
-8330;Hörnlistrasse;55;;gma;8.78874;47.368783
-8330;Hotzenweidstrasse;44;Schule;intern;8.779789;47.372237
-8330;Im Kehr;7a;;intern;8.781855;47.364968
-8330;Im Platz;1;;intern;8.781164;47.366013
-8330;Kempttalstrasse;24;;intern;8.780835;47.367884
-8330;Kempttalstrasse;90;;gma;8.776498;47.371375
-8330;Lindenstrasse;20;Haus Böndler;gma;8.784938;47.368626
-8330;Lindenstrasse;22;Haus Guyer;gma;8.785497;47.368353
-8330;Lindenstrasse;24;Haus Stocker;gma;8.785759;47.368386
-8330;Mettlenstrasse;7;;intern;8.791805;47.362787
-8330;Mettlenstrasse;19;Schule;intern;8.792072;47.363047
-8330;Mettlenstrasse;19c;;intern;8.793;47.363298
-8330;Obermattstrasse;54;Kindergarten;intern;8.780065;47.369202
-8330;Obermattstrasse;65;;gma;8.780078;47.369833
-8330;Pfaffbergstrasse;21;Schule;intern;8.792359;47.367867
-8330;Pfaffbergstrasse;21;Schule;intern;8.793954;47.367466
-8330;Pilatusstrasse;8.1;Tiefgarage;intern;8.784052;47.364066
-8330;Rigistrasse;2;Tiefgarage;intern;8.787045;47.36439
-8330;Schanzstrasse;2;;gma;8.769582;47.364392
-8330;Schanzweg;2;;intern;8.767999;47.364796
-8330;Schanzweg;11;;intern;8.767018;47.363576
-8330;Schriberweidstrasse ;26;Tiefgarage;gma;8.776619;47.373174
-8331;Schulhausstrasse;9;Schule;gma;8.808354;47.343841
-8330;Schulstrasse;10;Tiefgarage;intern;8.780231;47.367083
-8330;Schützenhausstrasse;5;;intern;8.771999;47.365738
-8330;Schützenhausstrasse;19;;intern;8.768739;47.36697
-8330;Seestrasse;45;;intern;8.781606;47.365679
-8330;Speckstrasse;19;;intern;8.76883;47.372076
-8330;Speckstrasse;18;;gma;8.770648;47.372108
-8330;Speckstrasse;9;;gma;8.76999;47.370363
-8330;Speerstrasse;15;;gma;8.771158;47.369425
-8330;Stogelenweg;2;;gma;8.781442;47.364243
-8330;Tumbelenstrasse;6;;gma;8.782544;47.364618
-8330;Tumbelenstrasse;20;;gma;8.782983;47.36481
-8330;Turmstrasse;10;;gma;8.781501;47.368992
-8330;Turmstrasse;9;;gma;8.780748;47.368892
-8330;Turmstrasse;5;;gma;8.78181;47.367987
-8330;Usterstrasse;;Aathalkonzept;intern;8.766781;47.36281
-8330;Usterstrasse;5;;gma;8.780728;47.365331
-8330;Waldfriedenstrasse;21;;gma;8.794742;47.375263
-8330;Wallikerstrasse;44;;gma;8.789577;47.370575
-8330;Weidstrasse;33;;gma;8.789419;47.370064
-8330;Weiherholzstrasse;2;;gma;8.792374;47.371007
-8330;Witzbergstrasse;1;;intern;8.774158;47.370876
-8330;Witzbergstrasse;24;;intern;8.76976;47.370142
-8330;Zelglistrasse;7;;gma Haus Zelgli;8.7848;47.368133
+﻿plz,strasse,nummer,bemerkung,zweck,lon,lat
+8330,Alpenweg,18,Schule,intern,8.776979,47.367946
+8330,Bachtelstrasse,2,Haus Bachtel,gma,8.785605,47.367924
+8330,Bahnhofstrasse,16,,gma,8.78387,47.367161
+8330,Bahnhofstrasse,17,,intern,8.785184,47.366376
+8330,Barzloostrasse,1,,gma,8.770203,47.368576
+8330,Baumenstrasse,2,Tiefgarage,intern,8.78917,47.361879
+8330,Baumgartenstrasse,4.1,Tiefgarage,intern,8.795421,47.361473
+8330,Dorfstrasse,6,Kindergarten,intern,8.793011,47.361364
+8330,Hittnauerstrasse,1a,Tiefgarage,intern,8.787122,47.365266
+8330,Hittnauerstrasse,20,Schule,intern,8.790823,47.364178
+8330,Hittnauerstrasse,28,Tiefgarage,intern,8.791885,47.36407
+8330,Hittnauerstrasse,34,,gma,8.793088,47.364399
+8330,Hochstrasse,1,,intern,8.782556,47.367209
+8330,Hochstrasse,32,,gma,8.784435,47.36596
+8330,Hochstrasse,31,,gma,8.785671,47.365826
+8330,Hochstrasse ,65,,gma,8.788062,47.364245
+8330,Hörnlistrasse,77,,intern,8.791123,47.367607
+8330,Hörnlistrasse,76,,gma,8.790462,47.367217
+8330,Hörnlistrasse,80,,gma,8.791284,47.366519
+8330,Hörnlistrasse,71,,gma,8.789771,47.36848
+8330,Hörnlistrasse,55,,gma,8.788668,47.36872
+8330,Hörnlistrasse,55,,gma,8.78874,47.368783
+8330,Hotzenweidstrasse,44,Schule,intern,8.779789,47.372237
+8330,Im Kehr,7a,,intern,8.781855,47.364968
+8330,Im Platz,1,,intern,8.781164,47.366013
+8330,Kempttalstrasse,24,,intern,8.780835,47.367884
+8330,Kempttalstrasse,90,,gma,8.776498,47.371375
+8330,Lindenstrasse,20,Haus Böndler,gma,8.784938,47.368626
+8330,Lindenstrasse,22,Haus Guyer,gma,8.785497,47.368353
+8330,Lindenstrasse,24,Haus Stocker,gma,8.785759,47.368386
+8330,Mettlenstrasse,7,,intern,8.791805,47.362787
+8330,Mettlenstrasse,19,Schule,intern,8.792072,47.363047
+8330,Mettlenstrasse,19c,,intern,8.793,47.363298
+8330,Obermattstrasse,54,Kindergarten,intern,8.780065,47.369202
+8330,Obermattstrasse,65,,gma,8.780078,47.369833
+8330,Pfaffbergstrasse,21,Schule,intern,8.792359,47.367867
+8330,Pfaffbergstrasse,21,Schule,intern,8.793954,47.367466
+8330,Pilatusstrasse,8.1,Tiefgarage,intern,8.784052,47.364066
+8330,Rigistrasse,2,Tiefgarage,intern,8.787045,47.36439
+8330,Schanzstrasse,2,,gma,8.769582,47.364392
+8330,Schanzweg,2,,intern,8.767999,47.364796
+8330,Schanzweg,11,,intern,8.767018,47.363576
+8330,Schriberweidstrasse ,26,Tiefgarage,gma,8.776619,47.373174
+8331,Schulhausstrasse,9,Schule,gma,8.808354,47.343841
+8330,Schulstrasse,10,Tiefgarage,intern,8.780231,47.367083
+8330,Schützenhausstrasse,5,,intern,8.771999,47.365738
+8330,Schützenhausstrasse,19,,intern,8.768739,47.36697
+8330,Seestrasse,45,,intern,8.781606,47.365679
+8330,Speckstrasse,19,,intern,8.76883,47.372076
+8330,Speckstrasse,18,,gma,8.770648,47.372108
+8330,Speckstrasse,9,,gma,8.76999,47.370363
+8330,Speerstrasse,15,,gma,8.771158,47.369425
+8330,Stogelenweg,2,,gma,8.781442,47.364243
+8330,Tumbelenstrasse,6,,gma,8.782544,47.364618
+8330,Tumbelenstrasse,20,,gma,8.782983,47.36481
+8330,Turmstrasse,10,,gma,8.781501,47.368992
+8330,Turmstrasse,9,,gma,8.780748,47.368892
+8330,Turmstrasse,5,,gma,8.78181,47.367987
+8330,Usterstrasse,,Aathalkonzept,intern,8.766781,47.36281
+8330,Usterstrasse,5,,gma,8.780728,47.365331
+8330,Waldfriedenstrasse,21,,gma,8.794742,47.375263
+8330,Wallikerstrasse,44,,gma,8.789577,47.370575
+8330,Weidstrasse,33,,gma,8.789419,47.370064
+8330,Weiherholzstrasse,2,,gma,8.792374,47.371007
+8330,Witzbergstrasse,1,,intern,8.774158,47.370876
+8330,Witzbergstrasse,24,,intern,8.76976,47.370142
+8330,Zelglistrasse,7,,gma Haus Zelgli,8.7848,47.368133
