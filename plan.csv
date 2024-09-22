@@ -1,74 +1,83 @@
-plz,strasse,nummer,bemerkung,zweck,lon,lat
-8330,Alpenweg,18,Schule,intern,8.776979,47.367946
-8330,Bachtelstrasse,2,Alterszentrum Sophie-Guyer Haus Bachtel,"gma,intern",8.785605,47.367924
-8330,Bahnhofstrasse,16,Bank Avera,"gma,ersteinsatz,intern",8.78387,47.367161
-8330,Bahnhofstrasse,23,Silo,"ersteinsatz,intern",8.786313,47.365783
-8330,Bahnhofstrasse,17,Brockenstube,intern,8.785184,47.366376
-8330,Barzloostrasse,1,Polygena,"gma,ersteinsatz",8.770203,47.368576
-8330,Baumenstrasse,2.1,Tiefgarage Tannwiese,intern,8.78917,47.361879
-8330,Baumgartenstrasse,4.1,Tiefgarage Baumgartenstrasse,intern,8.795421,47.361473
-8330,Dorfstrasse,6,Kindergarten,intern,8.793011,47.361364
-8330,Hermatswilerstrasse,40,Grütter Wassertransport,ersteinsatz,8.822034,47.385999
-8330,Hittnauerstrasse,1a,Tiefgarage Widenwies,intern,8.787122,47.365266
-8330,Hittnauerstrasse,20,Schule Mettlen E,intern,8.790823,47.364178
-8330,Hittnauerstrasse,20a,Schule Metlen F,intern,8.79095458984375,47.364288330078125
-8330,Hittnauerstrasse,28,Tiefgarage,intern,8.791885,47.36407
-8330,Hittnauerstrasse,34,Altersheim Neuhof,"gma,ersteinsatz",8.793088,47.364399
-8330,Hochstrasse,1,Gemeindehaus,intern,8.782556,47.367209
-8330,Hochstrasse,32,Chinderhuus,"gma,ersteinsatz",8.784435,47.36596
-8330,Hochstrasse,31,Stiftung zur Palme,"gma,ersteinsatz,intern",8.785671,47.365826
-8330,Hochstrasse,65,Amtshaus,"gma,ersteinsatz,intern",8.788062,47.364245
-8330,Hörnlistrasse,55,Bezirksgebäude,"gma,ersteinsatz",8.788668,47.36872
-8330,Hörnlistrasse,55,Gefängnis,"gma,ersteinsatz,intern,checkliste",8.78874,47.368783
-8330,Hörnlistrasse,71,Bezirksgebäude,"gma,ersteinsatz",8.789771,47.36848
-8330,Hörnlistrasse,76,Geratrium Haus Ahorn,"gma,ersteinsatz,intern",8.790462,47.367217
-8330,Hörnlistrasse,77,Bildungszentrum Gärtner,"ersteinsatz,intern",8.791123,47.367607
-8330,Hörnlistrasse,80,Geratrium Haus Chriesibaum,"gma,ersteinsatz",8.791284,47.366519
-8330,Hotzenweidstrasse,44,Schule,intern,8.779789,47.372237
-8330,Im Platz,1,Bibliothek,intern,8.781164,47.366013
-8330,Kempttalstrasse,24,Wohnhaus,intern,8.780835,47.367884
-8330,Kempttalstrasse,90,Landi,"gma,ersteinsatz",8.776498,47.371375
-8330,Lindenstrasse,20,Alterszentrum Sophie-Guyer Haus Böndler,"gma,intern",8.784938,47.368626
-8330,Lindenstrasse,22,Alterszentrum Sophie-Guyer Haus Guyer,"gma,intern",8.785497,47.368353
-8330,Lindenstrasse,24,Alterszentrum Sophie-Guyer Haus Stocker,"gma,intern",8.785759,47.368386
-8330,Mettlenstrasse,7,Sporthalle,intern,8.791805,47.362787
-8330,Mettlenstrasse,19,Schule Mettlen Osttrakt,intern,8.792495,47.362951
-8330,Mettlenstrasse,19a,Schule Mettlen Westtrakt,intern,8.792110,47.363060
-8330,Mettlenstrasse,19b,Schule Mettlen Nordtrakt,intern,8.792539596557617,47.363399505615234
-8330,Mettlenstrasse,19c,Schule Mettlen Turnhalle,intern,8.793,47.363298
-8330,Mettlenstrasse,23,Kindergarten,intern,8.79304027557373,47.3638916015625
-8330,Obermattstrasse,54,Kindergarten,intern,8.780065,47.369202
-8330,Obermattstrasse,65,Bräcker AG,"gma,ersteinsatz",8.780078,47.369833
-8330,Pfaffbergstrasse,21,Schule,intern,8.793930,47.367448
-8330,Pfaffbergstrasse,21,Schule Provisorium,intern,8.792460,47.367769
-8330,Pilatusstrasse,8.1,Tiefgarage,intern,8.784052,47.364066
-8330,Rigistrasse,2.1,Tiefgarage,intern,8.786461,47.364637
-8330,Schanzstrasse,2,Möbel Waeber,"gma,ersteinsatz,intern",8.769582,47.364392
-8330,Schanzweg,2,Paddel District,intern,8.767999,47.364796
-8330,Schanzweg,11,Gemeindewerke,intern,8.767018,47.363576
-8330,Schriberweidstrasse,20.1,Tiefgarage,"gma,ersteinsatz,intern",8.776619,47.373174
-8331,Schulhausstrasse,9,Schule,"gma,ersteinsatz,intern",8.808354,47.343841
-8330,Schulstrasse,10,Tiefgarage,intern,8.780231,47.367083
-8330,Schützenhausstrasse,5,Schellenberg Druck,"ersteinsatz,intern",8.771999,47.365738
-8330,Schützenhausstrasse,19,Schützenhaus,intern,8.768739,47.36697
-8330,Seestrasse,45,Ref. Kirchgmeindehaus,intern,8.781606,47.365679
-8330,Speckstrasse,9,Scherer Fensterbau,"gma,ersteinsatz,intern",8.76999,47.370363
-8330,Speckstrasse,19,HABA,intern,8.76883,47.372076
-8330,Speckstrasse,18,HS Werk Witzberg,"gma,ersteinsatz,intern",8.770648,47.372108
-8330,Speerstrasse,15,Schneiders Quer,"gma,ersteinsatz",8.771158,47.369425
-8330,Stogelenweg,2,Ortsmuseum,"gma,ersteinsatz,intern",8.781442,47.364243
-8330,Tumbelenstrasse,6,Chesselhaus,"gma,ersteinsatz,intern",8.782544,47.364618
-8330,Tumbelenstrasse,20,HS Dorf,"gma,ersteinsatz,intern",8.782983,47.36481
-8330,Tumbelenstrasse,74,Tiefgarage Tannwiese - siehe Baumenstrasse 2.1,intern,8.789476,47.362258
-8330,Turmstrasse,5,Stiftung zur Palme,"gma,ersteinsatz,intern",8.78181,47.367987
-8330,Turmstrasse,9,Zentrum Frohwies,"gma,ersteinsatz,intern",8.780748,47.368892
-8330,Turmstrasse,10,Coop,"gma,ersteinsatz,intern",8.781501,47.368992
-8330,Usterstrasse,,Aathalkonzept,intern,8.766781,47.36281
-8330,Usterstrasse,5,Ref. Kirche,"gma,intern",8.780728,47.365331
-8330,Waldfriedenstrasse,21,Stiftung zur Palme,"gma,ersteinsatz,intern",8.794742,47.375263
-8330,Wallikerstrasse,44,Lindenbaum,"gma,ersteinsatz,intern",8.789615,47.370568
-8330,Weidstrasse,33,Lindenbaum,intern,8.789457,47.370059
-8330,Weiherholzstrasse,2,Pfadiheim,"gma,ersteinsatz",8.792374,47.371007
-8330,Witzbergstrasse,1,Burger King,intern,8.774158,47.370876
-8330,Witzbergstrasse,24,Gewerbehaus,intern,8.76976,47.370142
-8330,Zelglistrasse,7,Alterszentrum Sophie-Guyer Haus Bachtel Böndler Guyer Stocker Zelgli,"gma,ersteinsatz",8.7848,47.368133
+plz,strasse,nummer,bemerkung,zweck,lon,lat,modifikation,bemerkung
+8330,Alpenweg,18,Schule,"intern,tlf",8.776979,47.367946,5.6.2020,
+8330,Bachtelstrasse,2,Alterszentrum Sophie-Guyer Haus Bachtel,"gma,intern",8.785605,47.367924,,
+8330,Bahnhofstrasse,16,Bank Avera,"gma,ersteinsatz,intern",8.78387,47.367161,,
+8330,Bahnhofstrasse,23,Silo,"ersteinsatz,intern",8.786313,47.365783,,
+8330,Bahnhofstrasse,17,Brockenstube,"intern,tlf",8.785184,47.366376,15.12.2021,
+8330,Barzloostrasse,1,Polygena,"gma,ersteinsatz,tlf",8.770203,47.368576,10.8.2023,
+8330,Baumenstrasse,2.1,Tiefgarage Tannwiese,intern,8.78917,47.361879,,
+8330,Baumenstrasse,40.1,Strandbad,tlf,8.786384582519531,47.359527587890625,1.7.2003,
+8330,Baumgartenstrasse,4.1,Tiefgarage Baumgartenstrasse,"intern,tlf",8.795421,47.361473,4.6.2019,
+8330,Dorfstrasse,6,Kindergarten,"intern,tlf",8.793011,47.361364,5.6.2020,
+8330,Dorfstrasse,57,Gewerbehaus,tlf,8.795233726501465,47.36305618286133,7.6.2016,
+8330,Hermatswilerstrasse,40,Grütter Wassertransport,"ersteinsatz,tlf",8.822034,47.385999,, => ersteinstzprüfen
+8330,Hittnauerstrasse,1a,Tiefgarage Widenwies,"intern,tlf",8.787122,47.365266,3.12.2020,
+8330,Hittnauerstrasse,20,Schule Mettlen E,"intern,tlf",8.790823,47.364178,16.1.2023,
+8330,Hittnauerstrasse,20a,Schule Metlen F,"intern,tlf",8.79095458984375,47.364288330078125,16.1.2023,
+8330,Hittnauerstrasse,28,Tiefgarage,"intern,tlf",8.791885,47.36407,5.3.2018,
+8330,Hittnauerstrasse,34,Altersheim Neuhof,"gma,ersteinsatz,tlf",8.793088,47.364399,10.10.2022,
+8330,Hochstrasse,1,Gemeindehaus,"intern,tlf",8.782556,47.367209,15.12.2022,
+8330,Hochstrasse,32,Chinderhuus,"gma,ersteinsatz,tlf",8.784435,47.36596,1.11.2007, => TLF entsorgen?
+8330,Hochstrasse,31,Stiftung zur Palme,"gma,ersteinsatz,intern,tlf",8.785671,47.365826,3.4.2019,
+8330,Hochstrasse,65,Amtshaus,"gma,ersteinsatz,intern,tlf",8.788062,47.364245,15.12.2021,
+8330,Hochstrasse,137,Tiefgarage Romanum,tlf,8.793439,47.360968,30.4.2015,zufahrt über langackerstrasse 8.1
+8330,Hörnlistrasse,55,Bezirksgebäude,"gma,ersteinsatz",8.788668,47.36872,,
+8330,Hörnlistrasse,55,Gefängnis,"gma,ersteinsatz,intern,checkliste,tlf",8.78874,47.368783,25.9.2015, => TLF veraltet
+8330,Hörnlistrasse,71,Bezirksgebäude,"gma,ersteinsatz",8.789771,47.36848,,
+8330,Hörnlistrasse,76,Geratrium Haus Ahorn,"gma,ersteinsatz,intern",8.790462,47.367217,,
+8330,Hörnlistrasse,77,Bildungszentrum Gärtner,"ersteinsatz,intern",8.791123,47.367607,,
+8330,Hörnlistrasse,80,Geratrium Haus Chriesibaum,"gma,ersteinsatz",8.791284,47.366519,,
+8330,Hotzenweidstrasse,44,Schule,"intern,tlf",8.779789,47.372237,5.6.2020,
+8330,Im Platz,1,Bibliothek,"intern,tlf",8.781164,47.366013,15.12.2021,
+8330,Kempttalstrasse,24,Wohnhaus,intern,8.780835,47.367884,,
+8330,Kempttalstrasse,90,Landi,"gma,ersteinsatz",8.776498,47.371375,,
+8330,Lindenstrasse,20,Alterszentrum Sophie-Guyer Haus Böndler,"gma,intern",8.784938,47.368626,,
+8330,Lindenstrasse,22,Alterszentrum Sophie-Guyer Haus Guyer,"gma,intern",8.785497,47.368353,,
+8330,Lindenstrasse,24,Alterszentrum Sophie-Guyer Haus Stocker,"gma,intern",8.785759,47.368386,,
+8330,Mettlenstrasse,7,Sporthalle,"intern,tlf",8.791805,47.362787,5.6.2020,
+8330,Mettlenstrasse,19,Schule Mettlen Osttrakt,"intern,tlf",8.792495,47.362951,5.6.2020,
+8330,Mettlenstrasse,19a,Schule Mettlen Westtrakt,"intern,tlf",8.792110,47.363060,5.6.2020,
+8330,Mettlenstrasse,19b,Schule Mettlen Nordtrakt,"intern,tlf",8.792539596557617,47.363399505615234,5.6.2020,
+8330,Mettlenstrasse,19c,Schule Mettlen Turnhalle,"intern,tlf",8.793,47.363298,5.6.2020,
+8330,Mettlenstrasse,23,Kindergarten,"intern,tlf",8.79304027557373,47.3638916015625,5.6.2020,
+8330,Obermattstrasse,54,Kindergarten,"intern,tlf",8.780065,47.369202,5.6.2020,
+8330,Obermattstrasse,65,Bräcker AG,"gma,ersteinsatz,tlf",8.780078,47.369833,19.4.2018,
+8330,Pfaffbergstrasse,21,Schule,"intern,tlf",8.793930,47.367448,5.6.2020,
+8330,Pfaffbergstrasse,21,Schule Provisorium,"intern,tlf",8.792460,47.367769,1.9.2021,
+8330,Pilatusstrasse,8.1,Tiefgarage,"intern,tlf",8.784052,47.364066,1.12.2015,
+8330,Rigistrasse,2.1,Tiefgarage,intern,8.786461,47.364637,,
+8330,Schanzstrasse,2,Möbel Waeber,"gma,ersteinsatz,intern,tlf",8.769582,47.364392,7.7.2022,
+8330,Schanzstrasse,17,Atrium,tlf,8.769438,47.366175,7.2.2018,
+8330,Schanzstrasse,19,Atrium,tlf,8.769896,47.366306,7.2.2018,
+8330,Schanzweg,2,Gemeindewerke,"intern,tlf",8.767999,47.364796,15.12.2021,
+8330,Schanzweg,11,Paddle District,"intern,tlf",8.767018,47.363576,17.10.2023,
+8330,Schriberweidstrasse,20.1,Tiefgarage,"gma,ersteinsatz,intern,tlf",8.776619,47.373174,13.12.2018,
+8331,Schulhausstrasse,9,Schule,"gma,ersteinsatz,intern,tlf",8.808354,47.343841,5.6.2020,
+8330,Schulstrasse,10,Tiefgarage,"intern,tlf",8.780231,47.367083,30.3.2021,
+8330,Schulstrasse,22,Überbauung Rosshöri,tlf,8.780573,47.366964,3.7.2017,
+8330,Schützenhausstrasse,5,Schellenberg Druck,"ersteinsatz,intern,tlf",8.771999,47.365738,26.4.2023,
+8330,Schützenhausstrasse,17,Schnitzelheizung Schanz,tlf,8.768833,47.366339,1.11.2003,
+8330,Schützenhausstrasse,19,Schützenhaus,"intern,tlf",8.768739,47.36697,15.12.2021,
+8330,Seestrasse,45,Ref. Kirchgmeindehaus,"intern,tlf",8.781606,47.365679,25.11.2022,
+8330,Speckstrasse,9,Scherer Fensterbau,"gma,ersteinsatz,intern,tlf",8.76999,47.370363,18.9.2023,
+8330,Speckstrasse,19,HABA,"intern,tlf",8.76883,47.372076,25.4.2001,
+8330,Speckstrasse,18,HS Werk Witzberg,"gma,ersteinsatz,intern,tlf",8.770648,47.372108,4.4.2022,
+8330,Speerstrasse,15,Schneiders Quer,"gma,ersteinsatz,tlf",8.771158,47.369425,1.2.2010,
+8330,Stogelenweg,2,Ortsmuseum,"gma,ersteinsatz,intern,tlf",8.781442,47.364243,13.2.2020, => ersteinsatz und BMA gemischt
+8330,Tarnhof,1.1,Palme,tlf,8.789960,47.359556,17.3.2002,
+8330,Tumbelenstrasse,6,Chesselhaus,"gma,ersteinsatz,intern,tlf",8.782544,47.364618,1.11.2018,
+8330,Tumbelenstrasse,20,HS Dorf,"gma,ersteinsatz,intern,tlf",8.782983,47.36481,18.4.2017,
+8330,Tumbelenstrasse,74,Tiefgarage Tannwiese - siehe Baumenstrasse 2.1,intern,8.789476,47.362258,,
+8330,Turmstrasse,5,Stiftung zur Palme,"gma,ersteinsatz,intern",8.78181,47.367987,,
+8330,Turmstrasse,9,Zentrum Frohwies,"gma,ersteinsatz,intern,tlf",8.780748,47.368892,27.10.2017,
+8330,Turmstrasse,10,Coop,"gma,ersteinsatz,intern",8.781501,47.368992,,
+8330,Usterstrasse,,Aathalkonzept,intern,8.766781,47.36281,,
+8330,Usterstrasse,5,Ref. Kirche,"gma,intern,tlf",8.780728,47.365331,25.11.2022,
+8330,Waldfriedenstrasse,21,Stiftung zur Palme,"gma,ersteinsatz,intern",8.794742,47.375263,,
+8330,Wallikerstrasse,44,Lindenbaum,"gma,ersteinsatz,intern,tlf",8.789615,47.370568,28.2.2023,
+8330,Weidstrasse,33,Lindenbaum,"intern,tlf",8.789457,47.370059,30.5.2023,
+8330,Weiherholzstrasse,2,Pfadiheim,"gma,ersteinsatz",8.792374,47.371007,,
+8330,Witzbergstrasse,1,Burger King,"intern,tlf",8.774158,47.370876,24.3.2016,
+8330,Witzbergstrasse,5,Gewerbehaus,tlf,8.773769,47.371026,1.9.2008,
+8330,Witzbergstrasse,24,Gewerbehaus,"intern,tlf",8.76976,47.370142,15.5.2022,
+8330,Zelglistrasse,7,Alterszentrum Sophie-Guyer Haus Bachtel Böndler Guyer Stocker Zelgli,"gma,ersteinsatz",8.7848,47.368133,,
