@@ -1,4 +1,4 @@
-objekt.adresse.plz,objekt.adresse.strasse,objekt.adresse.nummer,lon,lat,objekt.koordinaten.lv95.x,objekt.koordinaten.lv95.y,status,modifikation,batterie,kommentar
+objekt.adresse.plz,objekt_adresse_strasse,objekt_adresse_nummer,lon,lat,objekt.koordinaten.lv95.x,objekt.koordinaten.lv95.y,status,modifikation,batterie,kommentar
 8330,Alpenstrasse,1,8.7784423828125,47.36737060546875,1247144.5,2701199.25,IN_BETRIEB,21.02.2024,False,
 8330,Am Landsberg,25,8.782632827758789,47.37456512451172,1247949.75,2701502.0,IN_BETRIEB,21.06.2016,False,
 8330,Angelstrasse,1a,8.777206420898438,47.37541961669922,1248038.0,2701090.5,IN_BETRIEB,20.11.2016,False,
