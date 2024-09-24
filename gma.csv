@@ -1,6 +1,6 @@
-﻿plz,strasse,nummer,bezeichnung,gma,lon,lat
+﻿plz,strasse,nummer,bezeichnung,gma,lon,lat,bemerkung
 8330,Stogelenweg,2,Museum am Pfäffikersee,826168,8.781442,47.364243
-8330,Barzloostrasse,1,LS 7323,826962,8.770203,47.368576
+8330,Barzloostrasse,1,LS 7323,826962,8.770203,47.368576,Risikokataster
 8330,Zelglistrasse,7,Alterszentrum,827294,8.7848,47.368133
 8330,Hörnlistrasse,76,Pflegezentrum GerAtrium,828302,8.790462,47.367217
 8331,Schulhausstrasse,9,Primarschulhaus,829054,8.808354,47.343841
@@ -9,22 +9,22 @@
 8330,Hochstrasse,32,Chinderhuus,829517,8.784435,47.36596
 8330,Hörnlistrasse,71,Bezirksverwaltung Pfäffikon ZH,829704,8.789771,47.36848
 8330,Hörnlistrasse,55,Bezirksverwaltung Pfäffikon ZH,829705,8.788668,47.36872
-8330,Schriberweidstrasse,26,Weidsicht,832833,8.776619,47.373174
+8330,Schriberweidstrasse,26,Weidsicht,832833,8.776619,47.373174,Sprinkler
 8330,Speerstrasse,15,Hotel Schneiders Quer AG,852454,8.771158,47.369425
-8330,Turmstrasse,10,Coop Pfäffikon ZH,921255,8.781501,47.368992
-8330,Turmstrasse,9,Frohwies,921610,8.780748,47.368892
-8330,Obermattstrasse,65,Bräcker AG,921800,8.780078,47.369833
+8330,Turmstrasse,10,Coop Pfäffikon ZH,921255,8.781501,47.368992,Sprinkler
+8330,Turmstrasse,9,Frohwies,921610,8.780748,47.368892,Sprinkler
+8330,Obermattstrasse,65,Bräcker AG,921800,8.780078,47.369833, Risikokataster
 8330,Hittnauerstrasse,34,Wohn- und Alterszentrum Neuhof,922066,8.793088,47.364399
-8330,Schanzstrasse,2,Waeber Möbel,922141,8.769582,47.364392
+8330,Schanzstrasse,2,Waeber Möbel,922141,8.769582,47.364392,Sprinkler
 8330,Turmstrasse,5,Dorfzentrum Frohwies,922172,8.78181,47.367987
 8330,Hörnlistrasse,55,Gefängnis Pfäffikon,923901,8.78874,47.368783
 8330,Tumbelenstrasse,20,Huber + Suhner,923932,8.782983,47.36481
-8330,Speckstrasse,18,Huber+Suhner AG,924885,8.770648,47.372108
+8330,Speckstrasse,18,Huber+Suhner AG,924885,8.770648,47.372108,"Sprinkler,Risikokataster"
 8330,Bahnhofstrasse,16,Bank Avera Genossenschaft,924896,8.78367,47.367161
 8330,Usterstrasse,5,Reformierte Kirche,925159,8.780728,47.365331
 8330,Wallikerstrasse,44,Lindenbaum,926096,8.789577,47.370575
-8330,Kempttalstrasse,90,Landi Zola AG,928025,8.776498,47.371375
+8330,Kempttalstrasse,90,Landi Zola AG,928025,8.776498,47.371375,Sprinkler
 8330,Waldfriedenstrasse,21,Alterszentrum Waldfrieden,928157,8.794742,47.375263
-8330,Speckstrasse,9,Scherer AG Pfäffikon,928430,8.76999,47.370363
+8330,Speckstrasse,9,Scherer AG Pfäffikon,928430,8.76999,47.370363,Sprinkler
 8330,Hochstrasse,31,Stiftung zur Palme,928794,8.785671,47.365826
 8330,Weiherholzstrasse,2,Pfadiheim Weiherholz,928911,8.792374,47.371007
