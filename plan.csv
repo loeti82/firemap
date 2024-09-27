@@ -1,36 +1,36 @@
 plz,strasse,nummer,bemerkung,zweck,lon,lat,modifikation,bemerkung
 8330,Alpenweg,18,Schule,"intern,tlf",8.776979,47.367946,5.6.2020,
-8330,Bachtelstrasse,2,Alterszentrum Sophie-Guyer Haus Bachtel,"gma,intern",8.785605,47.367924,,
-8330,Bahnhofstrasse,16,Bank Avera,"gma,ersteinsatz,intern",8.78387,47.367161,,
-8330,Bahnhofstrasse,23,Silo,"ersteinsatz,intern",8.786313,47.365783,,
-8330,Bahnhofstrasse,17,Brockenstube,"intern,tlf",8.785184,47.366376,15.12.2021,
+8330,Bachtelstrasse,2,Alterszentrum Sophie-Guyer Haus Bachtel,"gma,intern",8.785605,47.367924,26.02.2024,
+8330,Bahnhofstrasse,16,Bank Avera,"gma,ersteinsatz,intern",8.78387,47.367161,21.10.2023,
+8330,Bahnhofstrasse,17,Brockenstube,"intern,tlf",8.785184,47.366376,15.12.2021,intern neuer: 18.09.2022
+8330,Bahnhofstrasse,23,Silo,"ersteinsatz,intern",8.786313,47.365783,17.07.2024,
 8330,Barzloostrasse,1,Polygena,"gma,ersteinsatz,tlf",8.770203,47.368576,10.8.2023,
-8330,Baumenstrasse,2.1,Tiefgarage Tannwiese,intern,8.78917,47.361879,,
+8330,Baumenstrasse,2.1,Tiefgarage Tannwiese,intern,8.78917,47.361879,04.06.2019,
 8330,Baumenstrasse,40.1,Strandbad,tlf,8.786384582519531,47.359527587890625,1.7.2003,
-8330,Baumgartenstrasse,4.1,Tiefgarage Baumgartenstrasse,"intern,tlf",8.795421,47.361473,4.6.2019,
+8330,Baumgartenstrasse,4.1,Tiefgarage Baumgartenstrasse,"intern,tlf",8.795421,47.361473,4.6.2019,intern neuer: 15.03.2024
 8330,Dorfstrasse,6,Kindergarten,"intern,tlf",8.793011,47.361364,5.6.2020,
 8330,Dorfstrasse,57,Gewerbehaus,tlf,8.795233726501465,47.36305618286133,7.6.2016,
-8330,Hermatswilerstrasse,40,Grütter Wassertransport,"ersteinsatz,tlf",8.822034,47.385999,, => ersteinstzprüfen
+8330,Hermatswilerstrasse,40,Grütter Wassertransport,"ersteinsatz,tlf",8.822034,47.385999,, => ersteinsatzprüfen
 8330,Hittnauerstrasse,1a,Tiefgarage Widenwies,"intern,tlf",8.787122,47.365266,3.12.2020,
 8330,Hittnauerstrasse,20,Schule Mettlen E,"intern,tlf",8.790823,47.364178,16.1.2023,
 8330,Hittnauerstrasse,20a,Schule Metlen F,"intern,tlf",8.79095458984375,47.364288330078125,16.1.2023,
-8330,Hittnauerstrasse,28,Tiefgarage,"intern,tlf",8.791885,47.36407,5.3.2018,
-8330,Hittnauerstrasse,34,Altersheim Neuhof,"gma,ersteinsatz,tlf",8.793088,47.364399,10.10.2022,
-8330,Hochstrasse,1,Gemeindehaus,"intern,tlf",8.782556,47.367209,15.12.2022,
+8330,Hittnauerstrasse,28,Tiefgarage,"intern,tlf",8.791885,47.36407,5.3.2018,tlf neuer ? intern: 27.9.2016
+8330,Hittnauerstrasse,34,Altersheim Neuhof,"gma,ersteinsatz,tlf",8.793088,47.364399,10.10.2022,Im Umbau: intern: 11.06.2024
+8330,Hochstrasse,1,Gemeindehaus,"intern,tlf",8.782556,47.367209,15.12.2022,intern neuer: 08.05.2024
 8330,Hochstrasse,32,Chinderhuus,"gma,ersteinsatz,tlf",8.784435,47.36596,1.11.2007, => TLF entsorgen?
-8330,Hochstrasse,31,Stiftung zur Palme,"gma,ersteinsatz,intern,tlf",8.785671,47.365826,3.4.2019,
-8330,Hochstrasse,65,Amtshaus,"gma,ersteinsatz,intern,tlf",8.788062,47.364245,15.12.2021,
-8330,Hochstrasse,137,Tiefgarage Romanum,tlf,8.793439,47.360968,30.4.2015,zufahrt über langackerstrasse 8.1
+8330,Hochstrasse,31,Stiftung zur Palme,"gma,ersteinsatz,intern,tlf",8.785671,47.365826,3.4.2019, => TLF entsorgen?
+8330,Hochstrasse,65,Amtshaus,"gma,ersteinsatz,intern,tlf",8.788062,47.364245,15.12.2021, => TLF entsorgen?
+8330,Hochstrasse,137,Tiefgarage Romanum,tlf,8.793439,47.360968,30.4.2015,zufahrt über Langackerstrasse 8.1
 8330,Hörnlistrasse,55,Bezirksgebäude,"gma,ersteinsatz",8.788668,47.36872,,
-8330,Hörnlistrasse,55,Gefängnis,"gma,ersteinsatz,intern,checkliste,tlf",8.78874,47.368783,25.9.2015, => TLF veraltet
+8330,Hörnlistrasse,55,Gefängnis,"gma,ersteinsatz,intern,checkliste,tlf",8.78874,47.368783,25.9.2015, => TLF veraltet wegen Umbau
 8330,Hörnlistrasse,71,Bezirksgebäude,"gma,ersteinsatz",8.789771,47.36848,,
 8330,Hörnlistrasse,76,Geratrium Haus Ahorn,"gma,ersteinsatz,intern",8.790462,47.367217,,
 8330,Hörnlistrasse,77,Bildungszentrum Gärtner,"ersteinsatz,intern",8.791123,47.367607,,
-8330,Hörnlistrasse,80,Geratrium Haus Chriesibaum,"gma,ersteinsatz",8.791284,47.366519,,
-8330,Hotzenweidstrasse,44,Schule,"intern,tlf",8.779789,47.372237,5.6.2020,
+8330,Hörnlistrasse,80,Geratrium Haus Chriesibaum,"gma,ersteinsatz,intern",8.791284,47.366519,,
+8330,Hotzenweidstrasse,44,Schule Steinacker,"intern,tlf",8.779789,47.372237,5.6.2020, Hallenbad
 8330,Im Platz,1,Bibliothek,"intern,tlf",8.781164,47.366013,15.12.2021,
-8330,Kempttalstrasse,24,Wohnhaus,intern,8.780835,47.367884,,
-8330,Kempttalstrasse,90,Landi,"gma,ersteinsatz",8.776498,47.371375,,
+8330,Kempttalstrasse,24,Wohnhaus,intern,8.780835,47.367884,05.04.2018,
+8330,Kempttalstrasse,90,Landi,"gma,ersteinsatz,intern",8.776498,47.371375,,
 8330,Lindenstrasse,20,Alterszentrum Sophie-Guyer Haus Böndler,"gma,intern",8.784938,47.368626,,
 8330,Lindenstrasse,22,Alterszentrum Sophie-Guyer Haus Guyer,"gma,intern",8.785497,47.368353,,
 8330,Lindenstrasse,24,Alterszentrum Sophie-Guyer Haus Stocker,"gma,intern",8.785759,47.368386,,
@@ -41,14 +41,14 @@ plz,strasse,nummer,bemerkung,zweck,lon,lat,modifikation,bemerkung
 8330,Mettlenstrasse,19c,Schule Mettlen Turnhalle,"intern,tlf",8.793,47.363298,5.6.2020,
 8330,Mettlenstrasse,23,Kindergarten,"intern,tlf",8.79304027557373,47.3638916015625,5.6.2020,
 8330,Obermattstrasse,54,Kindergarten,"intern,tlf",8.780065,47.369202,5.6.2020,
-8330,Obermattstrasse,65,Bräcker AG,"gma,ersteinsatz,tlf",8.780078,47.369833,19.4.2018,
+8330,Obermattstrasse,65,Bräcker AG,"gma,ersteinsatz,tlf",8.780078,47.369833,19.4.2018, => TLF entsorgen?
 8330,Pfaffbergstrasse,21,Schule,"intern,tlf",8.793930,47.367448,5.6.2020,
 8330,Pfaffbergstrasse,21,Schule Provisorium,"intern,tlf",8.792460,47.367769,1.9.2021,
-8330,Pilatusstrasse,8.1,Tiefgarage,"intern,tlf",8.784052,47.364066,1.12.2015,
+8330,Pilatusstrasse,8.1,Tiefgarage,"intern,tlf",8.784052,47.364066,1.12.2015, Abschnitt Schellenberg fehlt. PDF entsorgen?
 8330,Rigistrasse,2.1,Tiefgarage,intern,8.786461,47.364637,,
 8330,Schanzstrasse,2,Möbel Waeber,"gma,ersteinsatz,intern,tlf",8.769582,47.364392,7.7.2022,
-8330,Schanzstrasse,17,Atrium,tlf,8.769438,47.366175,7.2.2018,
-8330,Schanzstrasse,19,Atrium,tlf,8.769896,47.366306,7.2.2018,
+8330,Schanzstrasse,17,Atrium,tlf,8.769438,47.366175,7.2.2018,entsorgen?
+8330,Schanzstrasse,19,Atrium,tlf,8.769896,47.366306,7.2.2018,entsorgen?
 8330,Schanzweg,2,Gemeindewerke,"intern,tlf",8.767999,47.364796,15.12.2021,
 8330,Schanzweg,11,Paddle District,"intern,tlf",8.767018,47.363576,17.10.2023,
 8330,Schriberweidstrasse,20.1,Tiefgarage,"gma,ersteinsatz,intern,tlf",8.776619,47.373174,13.12.2018,
