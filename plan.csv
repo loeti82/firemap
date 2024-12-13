@@ -21,8 +21,8 @@ plz,strasse,nummer,bemerkung,zweck,lon,lat,modifikation,bemerkung
 8330,Hochstrasse,31,Stiftung zur Palme,"gma,ersteinsatz,intern,tlf",8.785671,47.365826,3.4.2019, => TLF entsorgen?
 8330,Hochstrasse,65,Amtshaus,"gma,ersteinsatz,intern,tlf",8.788062,47.364245,15.12.2021, => TLF entsorgen?
 8330,Hochstrasse,137,Tiefgarage Romanum,tlf,8.793439,47.360968,30.4.2015,zufahrt über Langackerstrasse 8.1
-8330,Hörnlistrasse,55,Bezirksgebäude,"gma,ersteinsatz",8.788668,47.36872,,
-8330,Hörnlistrasse,55,Gefängnis,"gma,ersteinsatz,intern,checkliste,tlf",8.78874,47.368783,25.9.2015, => TLF veraltet wegen Umbau
+8330,Hörnlistrasse,55,Bezirksgebäude,"gma,ersteinsatz, tlf",8.788668,47.36872,13.12.2024, => Zwischenlösung während Umbau
+8330,Hörnlistrasse,55,Gefängnis,"gma,ersteinsatz,intern,checkliste,tlf",8.78874,47.368783,13.12.2024, => Zwischenlösung während Umbau
 8330,Hörnlistrasse,71,Bezirksgebäude,"gma,ersteinsatz",8.789771,47.36848,,
 8330,Hörnlistrasse,76,Geratrium Haus Ahorn,"gma,ersteinsatz,intern",8.790462,47.367217,,
 8330,Hörnlistrasse,77,Bildungszentrum Gärtner,"ersteinsatz,intern",8.791123,47.367607,,
