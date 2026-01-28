@@ -1,71 +1,71 @@
-plz;strasse;nummer;egid;fläche;bemerkung;lon;lat;schlüsselrohr;baujahr
-8330;Alemannenweg;7;210204635;214.95;Tiefgarage;8.797209;47.362973;ja;
-8330;Alpenstrasse;1;210199362;354.19;Tiefgarage mit Alpenstrasse 5;8.7781257;47.3673966;ja;
-8330;Angelstrasse;1.1;210231465;1021.26;Tiefgarage ohne Plan;8.7768372;47.3754336;ja;
-8330;Bachtelstrasse;33.1;210192801;931.52;Tiefgarage;8.790397;47.365642;ja;
-8330;Baumenstrasse;2.1;210215036;3112.84;Tiefgarage;8.789145;47.3618513;ja;
-8330;Baumgartenstrasse;4.1;210183789;1765.78;Tiefgarage;8.795408;47.361467;ja;1975
-8330;Baumgartenstrasse;5;-;759.85;Tiefgarage;8.795005;47.361918;nein;1984
-8330;Berghaldenstrasse;13.1;210221862;994.25;Tiefgarage;8.7943396;47.3740531;ja;
-8330;Bodenackerstrasse;30;210191112;135.22;Tiefgarage MFH;8.792147;47.375973;ja;
-8330;Büelstrasse;19;88131;490.37;Tiefgarage MFH;8.779262;47.366253;ja;
-8330;Dorfstrasse;57;87620;268.91;Tiefgarage;8.795426;47.363036;ja;
-8330;Eichholzstrasse;38.2;210231467;766.6;Tiefgarage;8.7781316;47.3749229;ja;
-8330;Hittnauerstrasse;1a;210222329;697;Tiefgarage;8.787276;47.3651461;ja;
-8330;Hittnauerstrasse;27.1;210184543;363.95;Tiefgarage;8.792183;47.364847;nein;1993
-8330;Hittnauerstrasse;28;210213821;229.11;Tiefgarage;8.791739;47.364321;ja;
-8330;Hittnauerstrasse;32.1;210217340;594.4;Tiefgarage;8.791848;47.364063;ja;
-8330;Hochstrasse;137;210231468;978.05;Tiefgarage;8.7931751;47.361049;ja;
-8330;Hochstrasse;146.1;210184830;1396.18;Tiefgarage;8.793293;47.359946;nein;1971
-8330;Hörnlistrasse;73.1;210186126;1450.48;Tiefgarage;8.7902026;47.3683253;ja;
-8330;Hotzenweidstrasse;51.1;210183797;798.85;Tiefgarage;8.778838;47.373053;nein;1977
-8330;Im Spitz;31.1;210184835;337.09;Tiefgarage;8.773813;47.366033;nein;1973
-8330;Im Spitz;35.1;210184832;391.06;Tiefgarage;8.773538;47.365987;nein;1973
-8330;Mattenstrasse;2.2;210184165;5824.18;Tiefgarage;8.775407;47.3703598;ja;
-8330;Mettlenstrasse;14.1;210184029;1436.62;Tiefgarage;8.792997;47.362225;nein;1989
-8330;Nussbaumstrasse;2.1;210231466;2831.35;Tiefgarage;8.7897828;47.3660184;ja;
-8330;Obermattstrasse;30.2;210184401;1794.7;Tiefgarage;8.779503;47.367813;nein;1994
-8330;Obermattstrasse;72.2;210184819;546.51;Tiefgarage;8.781749;47.370122;nein;1970
-8330;Obermattstrasse;76.1;210184820;298.72;Tiefgarage;,8.781871;47.37009;nein;1970
-8330;Oberwilerstrasse;2;210199355;303.93;Tiefgarage;8.796127;47.362953;ja;
-8330;Pfaffbergstrasse;2+4;-;615.74;Tiefgarage;8.794859;47.365581;ja;
-8330;Pfaffbergstrasse;6;210183835;430.39;Tiefgarage;8.79526;47.366378;nein;1967
-8331;Pfäffikerstrasse;8.1;210184234;1683.24;Tiefgarage;8.8066607;47.3446165;ja;
-8330;Stogelenweg;9.1;210231470;766.47;Tiefgarage Schellenberg;8.783515;47.363521;ja;
-8330;Pilatusstrasse;8.1;210197131;3364.32;Tiefgarage;8.7839828;47.3641006;ja;
-8330;Postgasse;7.1;210231469;319.77;Tiefgarage mit Autolift;8.7835904;47.3660431;ja;
-8330;Rainstrasse;2.1;210184802;719.09;Tiefgarage;8.79668;47.366;nein;1970
-8330;Rainstrasse;1.1;210231404;-;Tiefgarage;8.796255;47.365705;nein;1970
-8330;Rigistrasse;2.1;210183271;4152.59;Tiefgarage;8.7870863;47.3643872;ja;
-8330;Rigistrasse;7.1;210183306;1383.3;Tiefgarage;8.78728;47.363946;ja;
-8330;Rigistrasse;16;210271760;213.59;Tiefgarage;8.7864733;47.3638486;ja;
-8330;Rigistrasse;26.1;210183252;1380.82;Tiefgarage;8.785506;47.362805;ja;
-8330;Ruetschbergstrasse;7.1;210197312;696.23;Tiefgarage;8.766521;47.354391;ja;
-8330;Russikerstrasse;11.2;210184560;2946.45;Tiefgarage;8.782656;47.36978;nein;1994
-8330;Russikerstrasse;54.1;210184881;715.15;Tiefgarage;8.7830164;47.3707201;ja;
-8330;Russikerstrasse;60;191952929;400;Tiefgarage MFH;8.78197;47.37192;ja;
-8330;Sandgrubenstrasse;11;191970368;3065.85;Tiefgarage;8.776977;47.368949;ja;
-8330;Schönbüelstrasse;42;191999263;227.42;Tiefgarage MFH;8.799688;47.36215;ja;
-8330;Schriberweidstrasse;17.1;210184735;534.91;Tiefgarage;8.777706;47.373603;nein;1980
-8330;Schriberweidstrasse;19.1;210184736;543.45;Tiefgarage;8.777449;47.37328;nein;1980
-8330;Schriberweidstrasse;20.1;210215990;1369.67;Tiefgarage;8.7770727;47.3735858;ja;
-8330;Schriberweidstrasse;21.1;210184715;533.25;Tiefgarage;8.777238;47.372881;nein;1980
-8330;Schulstrasse;10;210237382;464.2;Tiefgarage;8.780237;47.3670524;ja;
-8331;Sonnenstrasse;6;210214472;201.55;Tiefgarage;8.8071971;47.34521;ja;
-8330;Steinwiesstrasse;2.1;210231462;2287.98;Tiefgarage;8.784774;47.371372;nein;1984
-8330;Steinwiesstrasse;3;210217660;308.56;Tiefgarage;8.7840391;47.3707642;ja;
-8330;Steinwiesstrasse;32.1;210185548;846.88;Tiefgarage;8.783299;47.371969;nein;1981
-8330;Stoffelstrasse;14a;-;480.43;Tiefgarage;8.796436;47.365368;ja;
-8331;Strandbadstrasse;2.1;210200662;422;Tiefgarage;8.8063363;47.3436245;ja;
-8331;Strandbadstrasse;16.1;210184634;549.74;Tiefgarage;8.805288;47.343672;ja;1984
-8331;Sunnehöckli;1;-;642.0;Tiefgarage;8.817159;47.341771;ja;
-8330;Sunnmattstrasse;5;192006628;324.77;Tiefgarage mit Autolift;8.786475;47.362491;ja;
-8330;Tumbelenstrasse;8;210220065;578.32;Tiefgarage;8.782101;47.364409;ja;
-8330;Tumbelenstrasse;32.1;210231464;1478.25;Tiefgarage;8.7844382;47.3640263;ja;
-8330;Tumbelenstrasse;35.1;210184831;477.06;Tiefgarage;8.785906;47.364237;nein;1973
-8330;Tumbelenstrasse;55;210221171;179.44;Tiefgarage;8.787892;47.363344;ja;
-8330;Tumbelenstrasse;58;210199442;555.72;Tiefgarage;8.7875994;47.3631371;ja;
-8330;Tumbelenstrasse;60.1;210183257;4106.86;Tiefgarage;8.7881293;47.3629651;ja;
-8330;Turmstrasse;21.1;3023951;2334.5;Tiefgarage;8.7807206;47.3688779;ja;
-8330;Wallikerstrasse;30;210222307;397.64;Tiefgarage;8.7861718;47.3705009;ja;
-8330;Weidstrasse;11;191962126;263.31;Tiefgarage;8.788674;47.369704;ja;
+plz;strasse;nummer;egid;fläche;bemerkung;lon;lat;schlüsselrohr;baujahr;plan
+8330;Alemannenweg;7;210204635;214.95;Tiefgarage;8.797209;47.362973;ja;-;nein
+8330;Alpenstrasse;1;210199362;354.19;Tiefgarage mit Alpenstrasse 5;8.7781257;47.3673966;ja;-;nein
+8330;Angelstrasse;1.1;210231465;1021.26;Tiefgarage > 600 ohne Plan;8.7768372;47.3754336;ja;-;nein
+8330;Bachtelstrasse;33.1;210192801;931.52;Tiefgarage > 600;8.790397;47.365642;ja;-;nein
+8330;Baumenstrasse;2.1;210215036;3112.84;Tiefgarage > 600;8.789145;47.3618513;ja;-;ja
+8330;Baumgartenstrasse;4.1;210183789;1765.78;Tiefgarage > 600;8.795408;47.361467;ja;1975;ja
+8330;Baumgartenstrasse;5;-;759.85;Tiefgarage > 600;8.795005;47.361918;nein;1984;nein
+8330;Berghaldenstrasse;13.1;210221862;994.25;Tiefgarage > 600;8.7943396;47.3740531;ja;-;
+8330;Bodenackerstrasse;30;210191112;135.22;Tiefgarage MFH;8.792147;47.375973;ja;-;nein
+8330;Büelstrasse;19;88131;490.37;Tiefgarage MFH;8.779262;47.366253;ja;-;nein
+8330;Dorfstrasse;57;87620;268.91;Tiefgarage;8.795426;47.363036;ja;-;nein
+8330;Eichholzstrasse;38.2;210231467;766.6;Tiefgarage > 600;8.7781316;47.3749229;ja;-;nein
+8330;Hittnauerstrasse;1a;210222329;697;Tiefgarage > 600;8.787276;47.3651461;ja;-;ja
+8330;Hittnauerstrasse;27.1;210184543;363.95;Tiefgarage;8.792183;47.364847;nein;1993;nein
+8330;Hittnauerstrasse;28;210213821;229.11;Tiefgarage;8.791739;47.364321;ja;-;nein
+8330;Hittnauerstrasse;32.1;210217340;594.4;Tiefgarage;8.791848;47.364063;ja;-;ja
+8330;Hochstrasse;139.2;210231468;978.05;Tiefgarage > 600;8.7931751;47.361049;ja;-;ja
+8330;Hochstrasse;146.1;210184830;1396.18;Tiefgarage > 600;8.793293;47.359946;nein;1971;nein
+8330;Hörnlistrasse;73.1;210186126;1450.48;Tiefgarage > 600;8.7902026;47.3683253;ja;-;nein
+8330;Hotzenweidstrasse;51.1;210183797;798.85;Tiefgarage > 600;8.778838;47.373053;nein;1977;nein
+8330;Im Spitz;31.1;210184835;337.09;Tiefgarage;8.773813;47.366033;nein;1973;nein
+8330;Im Spitz;35.1;210184832;391.06;Tiefgarage;8.773538;47.365987;nein;1973;nein
+8330;Mattenstrasse;2.2;210184165;5824.18;Tiefgarage > 600;8.775407;47.3703598;ja;-;nein
+8330;Mettlenstrasse;14.1;210184029;1436.62;Tiefgarage > 600;8.792997;47.362225;nein;1989;nein
+8330;Nussbaumstrasse;2.1;210231466;2831.35;Tiefgarage > 600;8.7897828;47.3660184;ja;-;nein
+8330;Obermattstrasse;30.2;210184401;1794.7;Tiefgarage > 600;8.779503;47.367813;nein;1994;nein
+8330;Obermattstrasse;72.2;210184819;546.51;Tiefgarage;8.781749;47.370122;nein;1970;nein
+8330;Obermattstrasse;76.1;210184820;298.72;Tiefgarage;,8.781871;47.37009;nein;1970;nein
+8330;Oberwilerstrasse;2;210199355;303.93;Tiefgarage;8.796127;47.362953;ja;-;nein
+8330;Pfaffbergstrasse;2+4;-;615.74;Tiefgarage > 600;8.794859;47.365581;ja;-;ja
+8330;Pfaffbergstrasse;6;210183835;430.39;Tiefgarage;8.79526;47.366378;nein;1967;nein
+8331;Pfäffikerstrasse;8.1;210184234;1683.24;Tiefgarage > 600;8.8066607;47.3446165;ja;-;nein
+8330;Stogelenweg;9.1;210231470;766.47;Tiefgarage Schellenberg > 600;8.783515;47.363521;ja;-;nein
+8330;Pilatusstrasse;8.1;210197131;3364.32;Tiefgarage > 600;8.7839828;47.3641006;ja;-;ja
+8330;Postgasse;7.1;210231469;319.77;Tiefgarage mit Autolift;8.7835904;47.3660431;ja;-;nein
+8330;Rainstrasse;2.1;210184802;719.09;Tiefgarage > 600;8.79668;47.366;nein;1970;nein
+8330;Rainstrasse;1.1;210231404;-;Tiefgarage;8.796255;47.365705;nein;1970;nein
+8330;Rigistrasse;2.1;210183271;4152.59;Tiefgarage > 600;8.7870863;47.3643872;ja;-;ja
+8330;Rigistrasse;7.1;210183306;1383.3;Tiefgarage > 600;8.78728;47.363946;ja;-;nein
+8330;Rigistrasse;16;210271760;213.59;Tiefgarage;8.7864733;47.3638486;ja;-;nein
+8330;Rigistrasse;26.1;210183252;1380.82;Tiefgarage > 600;8.785506;47.362805;ja;-;nein
+8330;Ruetschbergstrasse;7.1;210197312;696.23;Tiefgarage > 600;8.766521;47.354391;ja;-;nein
+8330;Russikerstrasse;11.2;210184560;2946.45;Tiefgarage > 600;8.782656;47.36978;nein;1994;nein
+8330;Russikerstrasse;54.1;210184881;715.15;Tiefgarage > 600;8.7830164;47.3707201;ja;-;nein
+8330;Russikerstrasse;60;191952929;400;Tiefgarage MFH;8.78197;47.37192;ja;-;nein
+8330;Sandgrubenstrasse;11;191970368;3065.85;Tiefgarage > 600;8.776977;47.368949;ja;-;ja
+8330;Schönbüelstrasse;42;191999263;227.42;Tiefgarage MFH;8.799688;47.36215;ja;-;nein
+8330;Schriberweidstrasse;17.1;210184735;534.91;Tiefgarage;8.777706;47.373603;nein;1980;nein
+8330;Schriberweidstrasse;19.1;210184736;543.45;Tiefgarage;8.777449;47.37328;nein;1980;nein
+8330;Schriberweidstrasse;20.1;210215990;1369.67;Tiefgarage > 600;8.7770727;47.3735858;ja;-;ja
+8330;Schriberweidstrasse;21.1;210184715;533.25;Tiefgarage;8.777238;47.372881;nein;1980;nein
+8330;Schulstrasse;10;210237382;464.2;Tiefgarage;8.780237;47.3670524;ja;-;ja
+8331;Sonnenstrasse;6;210214472;201.55;Tiefgarage;8.8071971;47.34521;ja;-;nein
+8330;Steinwiesstrasse;2.1;210231462;2287.98;Tiefgarage > 600;8.784774;47.371372;nein;1984;nein
+8330;Steinwiesstrasse;3;210217660;308.56;Tiefgarage;8.7840391;47.3707642;ja;-;nein
+8330;Steinwiesstrasse;32.1;210185548;846.88;Tiefgarage > 600;8.783299;47.371969;nein;1981;nein
+8330;Stoffelstrasse;14a;-;480.43;Tiefgarage;8.796436;47.365368;ja;-;nein
+8331;Strandbadstrasse;2.1;210200662;422;Tiefgarage;8.8063363;47.3436245;ja;-;nein
+8331;Strandbadstrasse;16.1;210184634;549.74;Tiefgarage;8.805288;47.343672;ja;1984;nein
+8331;Sunnehöckli;1;-;642.0;Tiefgarage > 600;8.817159;47.341771;ja;-;nein
+8330;Sunnmattstrasse;5;192006628;324.77;Tiefgarage mit Autolift;8.786475;47.362491;ja;-;nein
+8330;Tumbelenstrasse;8;210220065;578.32;Tiefgarage;8.782101;47.364409;ja;-;nein
+8330;Tumbelenstrasse;32.1;210231464;1478.25;Tiefgarage > 600;8.7844382;47.3640263;ja;-;nein
+8330;Tumbelenstrasse;35.1;210184831;477.06;Tiefgarage;8.785906;47.364237;nein;1973;nein
+8330;Tumbelenstrasse;55;210221171;179.44;Tiefgarage;8.787892;47.363344;ja;-;nein
+8330;Tumbelenstrasse;58;210199442;555.72;Tiefgarage;8.7875994;47.3631371;ja;-;nein
+8330;Tumbelenstrasse;60.1;210183257;4106.86;Tiefgarage > 600;8.7881293;47.3629651;ja;-;nein
+8330;Turmstrasse;21.1;3023951;2334.5;Tiefgarage > 600;8.7807206;47.3688779;ja;-;nein
+8330;Wallikerstrasse;30;210222307;397.64;Tiefgarage;8.7861718;47.3705009;ja;-;nein
+8330;Weidstrasse;11;191962126;263.31;Tiefgarage;8.788674;47.369704;ja;-;nein
