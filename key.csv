@@ -25,8 +25,8 @@
 8330;Hittnauerstrasse;28;Hittnauerstr. 28;97;;Tiefgarage;8.791739;47.364321;Hittnauerstrasse 28.jpg
 8330;Hittnauerstrasse;1a;Hittnauerstr. 1a+1b;115;;Tiefgarage;8.787276;47.3651461;
 8330;Hochstrasse;32;Chinderhus Hochstr32;39;;Krippe;8.7844542;47.3659388;Hochstrasse 32.jpg
-8330;Hochstrasse;1;Gemeindehaus Pf;40;;;8.7825288;47.3672066;Hochstrasse 1.jpg
-8330;Hochstrasse;33.2;Stiftung zur Palme;47;Koordinaten unsicher;Heim;8.7857255;47.3658622;Hochstrasse 33.2.jpg
+8330;Hochstrasse;1;Gemeindehaus Pfäffikon;40;;Verwaltung;8.7825288;47.3672066;Hochstrasse 1.jpg
+8330;Hochstrasse;33.2;Stiftung zur Palme;47;Im Umbau;Heim; 8.785657;47.365842;Hochstrasse 33.2.jpg
 8330;Hochstrasse;137;ROMANUM Hochstr. ;69;;MFH + Tiefgarage;8.7931751;47.361049;Hochstrasse 137.jpg
 8330;Hochstrasse;65;Hochstrasse 65;78;;Verwaltung;8.788069;47.364247;Hochstrasse 65.jpg
 8330;Hörnlistrasse;77;Bildungszentrum Gärtner;25;;Schule;8.7911297;47.3676013;Hörnlistrasse 77.jpg
@@ -50,8 +50,7 @@
 8330;Obermattstrasse;65;Bräcker;;nicht auffindbar im Schliessplan;Bräcker;8.7804388;47.3698801;Obermattstrasse 65.jpg
 8330;Oberwilerstrasse;2;Oberwilerstrasse 2/4;79;;Tiefgarage;8.796127;47.362953;Oberwilerstrasse 2.jpg
 8330;Pfaffbergstrasse;2+4;Pfaffbergstrasse 2+4;;;Wohnhaus und Tiefgarage;8.794859;47.365581;Pfaffbergstrasse 2.jpg
-8330;Pfaffbergstrasse;21;Schulh. Pfaffberg;62;;Schule;8.7939231;47.3674664;
-8330;Pfaffbergstrasse;21;Schulhaus Pfaffberg;98;;Schulhaus Pfaffberg;8.7939348;47.3674682;
+8330;Pfaffbergstrasse;21;Schulhaus Pfaffberg;62;Im Umabu;Schule;8.7939231;47.3674664;
 8331;Pfäffikerstrasse;8.1;Pfäffikerstr. 10b, A;92;besseres Foto machen;Tiefgarage;8.8066607;47.3446165;Pfäffikerstrasse 8.1.jpg
 8330;Pilatusstrasse;40;Pilatusstr. 40;103;;Tiefgarage Schellenberg;8.783515;47.363521;
 8330;Pilatusstrasse;40;Pilatusstr. 40;103;;Tiefgarage Schellenberg;8.782951;47.363429;
@@ -80,7 +79,7 @@
 8330;Schulstrasse;22;Schulstrasse 22;87;;MFH;8.7805854;47.3669512;Schulstrasse 22.jpg
 8330;Schulstrasse;10;Schulstr. 10/12;121;;Tiefgarage;8.780237;47.3670524;Schulstrasse 10.jpg
 8330;Schützenhausstrasse;5;Schellenberg Druck;30;;Gewerbe;8.772022;47.365769;Schützenhausstrasse 5.jpg
-8330;Schützenhausstrasse;19;Schützenhaus Saumhol;35;;;8.7686912;47.3668941;Schützenhausstrasse 19.jpg
+8330;Schützenhausstrasse;19;Schützenhaus Saumholz;35;;Schützenhaus;8.7686912;47.3668941;Schützenhausstrasse 19.jpg
 8330;Schützenhausstrasse;7;Lidl Schützenhaus 7;129;;Lidl;8.770712;47.366234;Schützenhausstrasse 7.jpg
 8330;Seestrasse;45;Ref. Kirche Pfäffiko;42;;Kirchgemeindehaus;8.7816187;47.3657231;Seestrasse 45.jpg
 8331;Sonnenstrasse;6;Sonnenstr. 6;104;;Tiefgarage;8.8071971;47.34521;Sonnenstrasse 6.jpg
@@ -118,7 +117,7 @@
 8330;Wallikerstrasse;30;Wallikerstrasse 30;118;;Tiefgarage;8.7861718;47.3705009;Wallikerstrasse 30.jpg
 8330;Weidstrasse;33;Weidstrasse 33;126;;Neubau Lindenbaum;8.7890921;47.3698735;Weidstrasse 33.jpg
 8330;Weidstrasse;11;Weidstrasse 11;138;;;8.788674;47.369704;Weidstrasse 11.jpg
-8330;Weierholzstrasse;2;Pfadih. Weierholz;54;;;8.7923264;47.3710097;Weierholzstrasse 2.jpg
+8330;Weierholzstrasse;2;Pfadiheim Weierholz;54;;Lagerhaus;8.7923264;47.3710097;Weierholzstrasse 2.jpg
 8330;Witzbergstrasse;23;Fab. Witzbergstr. 23;17;;Gewerbe;8.770523;47.369339;Witzbergstrasse 23.jpg
 8330;Witzbergstrasse;3;Ott AG;60;;Gewerbe, im Metallpfosten;8.7740066;47.3706298;Witzbergstrasse 3.jpg
 8330;Witzbergstrasse;1;Chickeria Witzberg;82;;Gewerbe;8.7741213;47.370865;Witzbergstrasse 1.jpg
