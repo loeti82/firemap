@@ -33,9 +33,9 @@
 8330;Hörnlistrasse;55;Bezirksgebäude;32;Im Umbau;KaPo Gericht Gefängnis;8.7887459;47.3687522;Hörnlistrasse 55.jpg
 8330;Hörnlistrasse;71;Bezirksgebäude Hörnl;32;Im Umbau;Bezirksverwaltung;8.7897643;47.3684821;Hörnlistrasse 71.jpg
 8330;Hörnlistrasse;76;GerAtrium, Hörnlistr.;57;;GerAtrium, Haus Ahorn;8.7904806;47.3671973;Hörnlistrasse 76.jpg
-8330;Hörnlistrasse;80;Hörnlistrasse 80;100;besseres Foto machen;GerAtrium, Haus Chriesibaum;8.7912559;47.3665189;Hörnlistrasse 80.jpg
+8330;Hörnlistrasse;80;Hörnlistrasse 80;100;Zugang über Parkplatz;GerAtrium, Haus Chriesibaum;8.791284,47.366539;Hörnlistrasse 80.jpg
 8330;Hörnlistrasse;73.1;Hörnlistrasse 73+75;67;;Tiefgarage, evtl Paffbergwisen;8.7902026;47.3683253;Hörnlistrasse 73.1.jpg
-8330;Hotzenweidstrasse;44a;Schulhaus Steinacker;98;;Schulhaus Steinacker;8.7796252;47.3722354;Hotzenweidstrasse 44a.jpg
+8330;Hotzenweidstrasse;44a;Schulhaus Steinacker;98;Im Umbau;Schule;8.7796252;47.3722354;Hotzenweidstrasse 44a.jpg
 8330;Im Platz;1;Bibliothek Im Platz;33;;Bibliothek;8.7811738;47.366015;Im Platz 1.jpg
 8330;Kempttalstrasse;90;Landi;;nicht auffindbar im Schliessplan;Landi;8.776474;47.3714035;Kempttalstrasse 90.jpg
 8330;Lindenstrasse;20;Alterszentr. Sophie;28;;Haus Böndler;8.7849309;47.3686117;Lindenstrasse 20 - Haus Böndler.jpg
@@ -52,8 +52,8 @@
 8330;Pfaffbergstrasse;2+4;Pfaffbergstrasse 2+4;;;Wohnhaus und Tiefgarage;8.794859;47.365581;Pfaffbergstrasse 2.jpg
 8330;Pfaffbergstrasse;21;Schulhaus Pfaffberg;62;Im Umabu;Schule;8.7939231;47.3674664;
 8331;Pfäffikerstrasse;8.1;Pfäffikerstr. 10b, A;92;besseres Foto machen;Tiefgarage;8.8066607;47.3446165;Pfäffikerstrasse 8.1.jpg
-8330;Pilatusstrasse;40;Pilatusstr. 40;103;;Tiefgarage Schellenberg;8.783515;47.363521;
-8330;Pilatusstrasse;40;Pilatusstr. 40;103;;Tiefgarage Schellenberg;8.782951;47.363429;
+8330;Pilatusstrasse;40;Pilatusstr. 40;103;;Tiefgarage Schellenberg;8.783515;47.363521;Pilatusstrasse 40.1.jpg
+8330;Pilatusstrasse;40;Pilatusstr. 40;103;;Tiefgarage Schellenberg;8.782951;47.363429;Pilatusstrasse 40.2.jpg
 8330;Pilatusstrasse;8.1;Überbauung Pilatusstrasse;;nicht auffindbar im Schliessplan;Tiefgarage;8.7839828;47.3641006;Pilatusstrasse 8.1.jpg
 8330;Rappengasse;31;Rappengasse 31;85;;Tiefgarage;8.7835904;47.3660431;Rappengasse 31.jpg
 8330;Rigistrasse;2.1;MFH, Rigistr. 2-10;44;;Tiefgarage;8.7870863;47.3643872;Rigistrasse 2.1.jpg
@@ -89,7 +89,7 @@
 8330;Speckstrasse;9;Speckstrasse 9;45;;Gewerbe;8.7700991;47.3704132;Speckstrasse 9.jpg
 8330;Speerstrasse;9;Objekt: 19, Freuler;19;;Gewerbe, Wohnhaus;8.7717651;47.3690252;Speerstrasse 9.jpg
 8330;Speerstrasse;15;Schneiders Quer;;Zylinder beschriftet?;;8.7711469;47.3694606;Speerstrasse 15.jpg
-8330;Steinmüristrasse;11;Steinmüristr. 11;95;;;8.791763;47.365637;Steinmüristrasse 11.jpg
+8330;Steinmüristrasse;11;Steinmüristr. 11;95;;MFH;8.791763;47.365637;Steinmüristrasse 11.jpg
 8330;Steinwiesstrasse;3;Steinwiesstrasse 3;105;;Tiefgarage;8.7840391;47.3707642;Steinwiesstrasse 3.jpg
 8330;Stoffelstrasse;14a;Stoffelstr. 14;72;;Tiefgarage;8.796436;47.365368;Stoffelstrasse 14.jpg
 8330;Stogelenweg;2;Heimatmuseum;16;;Dorfmuseum;8.7814775;47.3642186;Stogelenweg 2.jpg
